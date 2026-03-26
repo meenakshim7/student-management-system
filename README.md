@@ -70,15 +70,19 @@ http://127.0.0.1:5000
 
 ---
 
+
+## App Link
+https://69c56e7d8f4d3c054d8fd078--tubular-gumption-59c339.netlify.app/
+
+
+
 ## 📸 Screenshots
 
 ### 🔐 Login Page
+<img width="1907" height="1031" alt="Screenshot 2026-03-26 230440" src="https://github.com/user-attachments/assets/84f5fecb-5731-4135-9140-49de63e36348" />
+<img width="1905" height="1031" alt="Screenshot 2026-03-26 230420" src="https://github.com/user-attachments/assets/cf490f8b-49f7-4036-b52d-96e2c746f78f" />
 
-(Add screenshot here)
 
-### 📊 Dashboard
-
-(Add screenshot here)
 
 ---
 
