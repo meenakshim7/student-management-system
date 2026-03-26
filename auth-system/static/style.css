@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: linear-gradient(135deg, #3a0ca3, #7209b7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card {
+    background: rgba(255,255,255,0.08);
+    padding: 30px;
+    border-radius: 15px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    backdrop-filter: blur(10px);
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 8px;
+    border: none;
+}
+button {
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(90deg, #9d4edd, #5a189a);
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+a {
+    color: #c77dff;
+}
