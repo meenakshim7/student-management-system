@@ -1,29 +1,3 @@
-library-management-system/
-│
-├── app.py
-├── config.py
-├── models.py
-├── database.db
-├── requirements.txt
-├── README.md
-│
-├── routes/
-│   ├── auth.py
-│   ├── books.py
-│   └── transactions.py
-│
-├── templates/
-│   ├── login.html
-│   ├── dashboard.html
-│   └── index.html
-│
-├── static/
-│   ├── style.css
-│   └── images/
-│
-└── screenshots/
-    ├── login.png
-    ├── dashboard.png
 # 📚 Library Management System
 
 A full-stack **Library Management System** built using **Python (Flask)** with a modern UI and essential features like authentication, book management, issuing/returning books, and fine calculation.
