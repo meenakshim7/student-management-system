@@ -101,4 +101,3 @@ Meenakshi (Engineering Student)
 ## ⭐ Acknowledgements
 
 This project was developed as part of academic learning and full-stack development practice.
-git init
